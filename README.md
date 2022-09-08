@@ -1,1 +1,1 @@
-# rsschool-cv
+https://chepikovone.github.io/rsschool-cv/cv
