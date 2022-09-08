@@ -10,6 +10,9 @@ Hi! I am a beginner front-end developer. I work well in the company. I study new
 * Email: chepikovone1@gmail.com  
 * Telegramm: @chepikovone  
 * Discord: chepikovone(@chepikovone)  
+
+***
+
 #### **Skill and Proficiency**  
 * HTML, CSS  
 * Javascript basic  
